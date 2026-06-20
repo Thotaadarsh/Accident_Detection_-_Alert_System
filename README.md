@@ -72,12 +72,12 @@ Accident Classification
      │
      ▼
 Accident Detected?
-   ┌───────────────┐
-   │ Yes           │
-   ▼               │
-Capture Snapshot   │
-Send Email Alert   │
-Store Timestamp    │
+     |
+     │ Yes           
+     ▼               
+Capture Snapshot   
+Send Email Alert   
+Store Timestamp    
 ```
 
 ---
